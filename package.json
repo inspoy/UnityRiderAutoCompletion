@@ -1,0 +1,12 @@
+{
+    "name": "cc.inspoy.unityriderautocompletion",
+    "displayName": "Instech.UnityRiderAutoCompletion",
+    "version": "1.0.0",
+    "unity": "2020.1",
+    "description": "Custom postfix completion for unity in JetBrains Rider",
+    "keywords": [
+      "instech",
+      "unity",
+      "rider"
+    ]
+  }
